@@ -1,10 +1,3 @@
-<script>
-export default {
-  name: "App",
-  data() {
-    return {};
-  },
-};
-</script>
+<script setup></script>
 <template></template>
 <style scoped></style>
